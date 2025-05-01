@@ -8,8 +8,8 @@ Built using a Node.js frontend, Python backend, and powered by Google Gemini Pro
   Here is the link for the video demonstration and real-time working of the generative-ai calculator.
 
   
-https://drive.google.com/file/d/16nDcillfXymb2kcEWFwUGMpaIDHR0KXE/view?usp=sharing
-
+[https://drive.google.com/file/d/16nDcillfXymb2kcEWFwUGMpaIDHR0KXE/view?usp=sharing
+](https://drive.google.com/file/d/1kGNcmQfpgRWG6Tj-INGQReqA6rNDHfQ4/view?usp=drive_link)
 
 ## 🔑 Key Features
 - Scribble & Solve ✍️: Handwrite any mathematical equation or expression, and the AI will solve it for you in real-time.
