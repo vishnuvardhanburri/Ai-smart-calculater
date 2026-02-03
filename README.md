@@ -102,6 +102,10 @@ cd Ai-smart-calculater
 <img width="1470" height="956" alt="Screenshot 2026-02-03 at 6 34 35 PM" src="https://github.com/user-attachments/assets/bd28977d-e603-40eb-9f74-fad1ef6fabbb" />
 
 
+
+https://github.com/user-attachments/assets/fcfd66db-f826-4931-920d-c40436eb7539
+
+
 (Adjust setup instructions based on your actual implementation.)
 
 ---
